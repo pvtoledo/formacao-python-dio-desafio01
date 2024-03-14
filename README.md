@@ -1,2 +1,2 @@
-# formacao-python-dio-desafio01
-Repositório criado com o intuito de compartilhar a resolução do Desafio de Projeto solicitado no módulo "Fundamentos Python" da Formação Python Developer realizado na plataforma https://dio.me/. 
+# Desafios de Código - Formação Python Developer - DIO 
+ Repositório criado com o intuito de compartilhar as resoluções do Desafios de Projetos solicitados na  Formação Python Developer realizado na plataforma https://dio.me/. 
